@@ -1,0 +1,39 @@
+{
+  "events": [
+    {
+		"title" : "Grants Pass Coffee Meet n Greet",
+		"date" : "Wednesday, July 18, 10am-11:30am",
+		"location" : "Blue Stone Bakery, 412 NW 6th St, Grants Pass, OR",
+		"gmaplink" : "https://goo.gl/maps/EiCSa9owpPo",
+		"desc" : "Start your day off by joining Jamie at the Blue Stone Bakery for some pastries and to hear why she is the candidate to vote for on November 6th!"
+    },
+    {
+		"title" : "Sip & Tip with Jamie McLeod-Skinner",
+		"date" : "Thursday, July 19, 9:30am-11:30am",
+		"location" : "Gathering Grounds, 116 S 11th St, downtown Klamath Falls, OR",
+		"gmaplink" : "https://goo.gl/maps/TPJomaXwWoD2",
+		"desc" : "Stop by and chat with Jamie – it’s time!"
+    },
+    {
+		"title" : "Jamie in the Miner’s Jubilee Parade",
+		"date" : "Saturday, July 21,11am-1pm",
+		"location" : "Geiser Pollman Park, Baker City, OR 97814",
+		"gmaplink" : "https://goo.gl/maps/NTeLrSU97LA2",
+		"desc" : "Jamie and her supporters will be celebrating the Miner’s Jubilee in Baker and walking in the Parade. Come on out and see her!"
+    },
+    {
+		"title" : "Hood River Meet and Greet",
+		"date" : "Tuesday, July 24, 11:30am-1pm",
+		"location" : "Dog River Coffee, 411 Oak St., Hood River, OR",
+		"gmaplink" : "https://goo.gl/maps/SugGLY8643H2",
+		"desc" : "Join Jamie at Dog River Coffee for good company and good coffee! Bring your questions for Jamie and hear why she is the best candidate to represent the 2nd Congressional District."
+    },
+    {
+		"title" : "Chief Joseph Days Parade",
+		"date" : "Saturday, July 28, Gathering for the Parade is between 8:30am-9:30am. Parade begins at 10AM",
+		"location" : "Joseph, Oregon",
+		"gmaplink" : "http://www.chiefjosephdays.com/rodeo/chief-joseph-days-parades/",
+		"desc" : "Calling all supports of Jamie near Joseph! Come on out and join her in the Chief Joseph Day Parade!"
+    }
+  ]
+}
